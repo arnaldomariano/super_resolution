@@ -1,2 +1,2 @@
 # super_resolution
- Project to upsample and unblur images
+ Python project created to upsample and unblur images in low resolution.
